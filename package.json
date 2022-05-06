@@ -1,0 +1,14 @@
+{
+  "name": "inpage-provider-wrapper",
+  "version": "0.0.1",
+  "description": "JS library that wraps necessary methods of inpage-provider and wallet connect",
+  "main": "src/index.ts",
+  "repository": "git@github.com:Psychedelic/inpage-provider-wrapper.git",
+  "author": "alejo@fleek.co",
+  "license": "MIT",
+  "dependencies": {
+    "@dfinity/agent": "0.9.3",
+    "@dfinity/candid": "0.9.3",
+    "@dfinity/principal": "0.9.3"
+  }
+}
